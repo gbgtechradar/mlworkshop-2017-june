@@ -28,3 +28,8 @@ To do some tests on different data you can checkout these datasets to see if the
 
 https://keras.io/datasets/
 
+### Öppna Data
+https://oppnadata.se/
+http://data.goteborg.se/
+
+
