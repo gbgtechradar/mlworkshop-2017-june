@@ -1,5 +1,14 @@
 # mlworkshop-2017-june
 
+
+### Environments
+
+Scikit-learn: Predict income from census data using Logistic Regression & Random Forest
+https://github.com/gbgtechradar/mlworkshop-2017-june/tree/master/scikit-learn
+
+Tensorflow/Keras: Environment to run exercises in
+https://github.com/gbgtechradar/tensorflow-keras-docker
+
 ### Develop Your First Neural Network in Python With Keras Step-By-Step
 
 http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
@@ -36,6 +45,10 @@ https://keras.io/datasets/
 
 ### Öppna Data
 https://oppnadata.se/
+
 http://data.goteborg.se/
+
+
+
 
 
