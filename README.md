@@ -20,6 +20,12 @@ https://www.tensorflow.org/get_started/mnist/pros
 
 https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 
+### List of more tutorials
+
+Note that some of these might not work due Python libraries are missing in the keras-jupyter docker that we have prepared.
+
+https://github.com/fchollet/keras-resources
+
 ## Datasets
 
 To do some tests on different data you can checkout these datasets to see if there is something to playaround with.
