@@ -16,6 +16,10 @@ In this tutorial we will learn the basic building blocks of a TensorFlow model w
 
 https://www.tensorflow.org/get_started/mnist/pros
 
+### The Ulitmate Beginner's Guide to Deep Learning in Python
+
+https://elitedatascience.com/keras-tutorial-deep-learning-in-python
+
 ## Datasets
 
 To do some tests on different data you can checkout these datasets to see if there is something to playaround with.
