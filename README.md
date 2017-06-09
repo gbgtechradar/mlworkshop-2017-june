@@ -29,6 +29,8 @@ https://www.tensorflow.org/get_started/mnist/pros
 
 https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 
+A Jupyter notebook that works in Python 3, https://github.com/gbgtechradar/mlworkshop-2017-june/blob/master/Deep%20learning.ipynb
+
 ### List of more tutorials
 
 Note that some of these might not work due Python libraries are missing in the keras-jupyter docker that we have prepared.
